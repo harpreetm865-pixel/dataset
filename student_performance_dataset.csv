@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Study_Hours_Per_Week,Attendance_Percentage,Parent_Education,Internet_Access,Extracurricular_Activities,Math_Score,Reading_Score,Writing_Score,Total_Score,Average_Score,Grade,Result
+STU001,Karan 1,Male,4.6,76.4,Diploma,Yes,No,61,56,58,175,58.3,D,Pass
+STU002,Vikram 2,Female,5.9,88.9,Bachelor,Yes,Yes,85,75,77,237,79.0,B,Pass
+STU003,Pooja 3,Female,3.5,83.2,Bachelor,Yes,Yes,62,56,59,177,59.0,D,Pass
+STU004,Harsh 4,Female,7.8,90.7,Bachelor,Yes,Yes,90,86,80,256,85.3,A,Pass
+STU005,Anjali 5,Male,7.7,88.8,Master,No,Yes,72,73,78,223,74.3,B,Pass
+STU006,Karan 6,Male,2.8,84.4,Diploma,Yes,No,48,66,53,167,55.7,D,Pass
+STU007,Mehak 7,Male,4.5,78.2,Master,Yes,Yes,58,60,75,193,64.3,C,Pass
+STU008,Harsh 8,Male,3.1,72.9,Master,No,Yes,60,64,49,173,57.7,D,Pass
+STU009,Harsh 9,Male,3.0,81.4,High School,Yes,No,65,66,62,193,64.3,C,Pass
+STU010,Priya 10,Male,1.3,91.9,High School,No,Yes,54,57,53,164,54.7,D,Pass
+STU011,Anjali 11,Female,5.3,86.7,High School,Yes,Yes,72,71,79,222,74.0,B,Pass
+STU012,Rahul 12,Male,4.5,75.0,High School,No,No,50,61,58,169,56.3,D,Pass
+STU013,Simran 13,Male,1.4,86.4,High School,Yes,Yes,65,56,59,180,60.0,C,Pass
+STU014,Navneet 14,Male,3.0,88.1,Bachelor,No,No,64,72,57,193,64.3,C,Pass
+STU015,Neha 15,Female,7.4,77.9,High School,Yes,No,80,83,82,245,81.7,A,Pass
+STU016,Simran 16,Male,2.7,86.2,Diploma,No,No,55,55,56,166,55.3,D,Pass
+STU017,Aman 17,Male,2.0,85.5,Master,Yes,Yes,62,61,61,184,61.3,C,Pass
+STU018,Navneet 18,Female,4.4,75.9,High School,Yes,No,70,71,75,216,72.0,B,Pass
+STU019,Navneet 19,Male,7.9,87.9,Master,No,Yes,66,75,68,209,69.7,C,Pass
+STU020,Riya 20,Male,2.7,89.5,Diploma,Yes,Yes,68,60,74,202,67.3,C,Pass
+STU021,Manpreet 21,Male,5.7,93.7,High School,Yes,Yes,81,68,84,233,77.7,B,Pass
+STU022,Sahil 22,Male,6.3,93.4,Bachelor,Yes,No,86,86,79,251,83.7,A,Pass
+STU023,Pooja 23,Male,2.7,74.0,Bachelor,Yes,Yes,62,58,53,173,57.7,D,Pass
+STU024,Pooja 24,Female,6.1,77.5,Master,Yes,Yes,60,65,71,196,65.3,C,Pass
+STU025,Mehak 25,Female,3.6,89.1,Bachelor,Yes,No,49,58,63,170,56.7,D,Pass
+STU026,Navneet 26,Female,5.4,89.1,Master,No,Yes,70,75,69,214,71.3,B,Pass
+STU027,Vikram 27,Male,5.4,89.1,Diploma,Yes,Yes,75,75,74,224,74.7,B,Pass
+STU028,Rahul 28,Male,4.8,100.0,High School,Yes,Yes,74,67,68,209,69.7,C,Pass
+STU029,Arjun 29,Male,1.6,89.6,Bachelor,No,Yes,51,63,53,167,55.7,D,Pass
+STU030,Mehak 30,Female,6.8,94.1,Master,No,Yes,75,65,64,204,68.0,C,Pass
+STU031,Karan 31,Male,3.2,92.6,Master,Yes,Yes,64,70,61,195,65.0,C,Pass
+STU032,Rohit 32,Male,2.3,90.2,Bachelor,Yes,No,50,46,49,145,48.3,F,Pass
+STU033,Karan 33,Female,1.3,82.5,Diploma,Yes,Yes,46,60,52,158,52.7,D,Pass
+STU034,Akash 34,Male,5.1,91.1,Bachelor,Yes,Yes,65,78,75,218,72.7,B,Pass
+STU035,Priya 35,Female,5.7,78.8,Diploma,Yes,No,69,69,74,212,70.7,B,Pass
+STU036,Jaspreet 36,Female,1.1,83.1,Master,Yes,Yes,53,60,48,161,53.7,D,Pass
+STU037,Akash 37,Female,4.6,81.1,Master,Yes,No,66,84,78,228,76.0,B,Pass
+STU038,Rohit 38,Male,2.6,85.7,Bachelor,Yes,Yes,51,66,58,175,58.3,D,Pass
+STU039,Simran 39,Male,5.5,100.0,Bachelor,No,Yes,77,72,79,228,76.0,B,Pass
+STU040,Vikram 40,Male,2.2,70.1,Bachelor,No,Yes,54,43,50,147,49.0,F,Pass
+STU041,Pooja 41,Male,5.8,90.5,High School,Yes,Yes,77,78,74,229,76.3,B,Pass
+STU042,Karan 42,Male,3.7,72.1,Master,Yes,Yes,63,74,74,211,70.3,B,Pass
+STU043,Navneet 43,Male,7.6,81.2,Bachelor,Yes,Yes,64,71,67,202,67.3,C,Pass
+STU044,Anjali 44,Male,2.0,93.7,Master,Yes,Yes,55,56,60,171,57.0,D,Pass
+STU045,Pooja 45,Female,3.4,85.5,Diploma,Yes,Yes,54,72,70,196,65.3,C,Pass
+STU046,Rahul 46,Male,1.8,76.4,Master,Yes,Yes,54,54,68,176,58.7,D,Pass
+STU047,Jaspreet 47,Female,7.5,79.3,Diploma,No,Yes,77,78,76,231,77.0,B,Pass
+STU048,Riya 48,Male,7.1,90.4,High School,Yes,Yes,80,73,75,228,76.0,B,Pass
+STU049,Priya 49,Male,2.8,79.2,Master,No,Yes,67,56,56,179,59.7,D,Pass
+STU050,Akash 50,Male,5.6,86.7,High School,Yes,No,76,67,69,212,70.7,B,Pass
+STU051,Anjali 51,Female,6.7,85.4,Diploma,Yes,Yes,83,83,82,248,82.7,A,Pass
+STU052,Priya 52,Female,4.9,79.8,Master,Yes,No,63,77,76,216,72.0,B,Pass
+STU053,Simran 53,Female,4.7,100.0,Master,No,No,83,69,78,230,76.7,B,Pass
+STU054,Neha 54,Female,2.7,90.1,Bachelor,No,Yes,58,74,56,188,62.7,C,Pass
+STU055,Manpreet 55,Male,1.7,68.8,Bachelor,Yes,No,49,54,45,148,49.3,F,Pass
+STU056,Priya 56,Female,7.3,86.5,Bachelor,Yes,No,76,80,79,235,78.3,B,Pass
+STU057,Akash 57,Male,7.3,79.7,Diploma,Yes,Yes,82,80,79,241,80.3,A,Pass
+STU058,Navneet 58,Male,5.4,91.8,Diploma,Yes,Yes,71,78,76,225,75.0,B,Pass
+STU059,Simran 59,Female,3.4,78.7,Bachelor,No,No,57,60,62,179,59.7,D,Pass
+STU060,Manpreet 60,Female,3.4,84.1,Bachelor,Yes,No,72,78,68,218,72.7,B,Pass
+STU061,Priya 61,Female,6.1,89.0,Bachelor,Yes,Yes,81,97,90,268,89.3,A,Pass
+STU062,Jaspreet 62,Female,7.3,91.9,Bachelor,Yes,Yes,77,82,90,249,83.0,A,Pass
+STU063,Sahil 63,Female,7.2,75.4,High School,No,Yes,78,90,79,247,82.3,A,Pass
+STU064,Pooja 64,Female,6.5,82.3,Bachelor,Yes,Yes,74,73,73,220,73.3,B,Pass
+STU065,Anjali 65,Female,5.5,81.2,High School,Yes,No,56,60,60,176,58.7,D,Pass
+STU066,Jaspreet 66,Female,1.6,79.8,Bachelor,Yes,Yes,57,62,52,171,57.0,D,Pass
+STU067,Anjali 67,Male,2.1,99.1,Bachelor,Yes,Yes,38,51,56,145,48.3,F,Pass
+STU068,Sahil 68,Female,7.3,88.2,Master,Yes,No,82,89,88,259,86.3,A,Pass
+STU069,Gurpreet 69,Female,5.2,74.9,Diploma,Yes,Yes,75,76,69,220,73.3,B,Pass
+STU070,Akash 70,Male,1.1,92.3,High School,No,Yes,54,64,61,179,59.7,D,Pass
+STU071,Pooja 71,Female,1.7,100.0,High School,Yes,No,60,67,55,182,60.7,C,Pass
+STU072,Gurpreet 72,Male,5.6,93.3,Bachelor,No,No,67,77,66,210,70.0,B,Pass
+STU073,Rohit 73,Male,1.0,72.8,Bachelor,No,Yes,47,60,55,162,54.0,D,Pass
+STU074,Pooja 74,Female,2.1,81.1,High School,Yes,Yes,41,40,55,136,45.3,F,Pass
+STU075,Gurpreet 75,Male,4.8,95.1,High School,Yes,Yes,68,73,72,213,71.0,B,Pass
+STU076,Aman 76,Male,5.8,79.3,Bachelor,No,Yes,83,76,76,235,78.3,B,Pass
+STU077,Karan 77,Male,5.6,88.6,High School,Yes,Yes,70,68,66,204,68.0,C,Pass
+STU078,Rohit 78,Male,2.6,91.2,Master,Yes,Yes,76,76,77,229,76.3,B,Pass
+STU079,Aman 79,Female,6.0,77.6,Bachelor,Yes,Yes,79,79,89,247,82.3,A,Pass
+STU080,Navneet 80,Male,2.7,84.5,High School,Yes,Yes,53,55,57,165,55.0,D,Pass
+STU081,Anjali 81,Female,3.3,59.1,High School,No,Yes,56,63,57,176,58.7,D,Pass
+STU082,Harsh 82,Male,6.2,76.8,Master,Yes,Yes,90,93,93,276,92.0,A+,Pass
+STU083,Mehak 83,Male,5.5,83.0,Diploma,Yes,Yes,67,79,78,224,74.7,B,Pass
+STU084,Riya 84,Male,6.9,75.0,Diploma,Yes,Yes,81,86,88,255,85.0,A,Pass
+STU085,Anjali 85,Male,5.6,98.1,Master,Yes,Yes,72,81,78,231,77.0,B,Pass
+STU086,Rahul 86,Female,5.0,73.6,Master,Yes,No,59,66,60,185,61.7,C,Pass
+STU087,Rahul 87,Female,1.7,81.5,Master,Yes,No,63,62,64,189,63.0,C,Pass
+STU088,Aman 88,Male,3.6,86.0,Bachelor,Yes,No,60,53,65,178,59.3,D,Pass
+STU089,Arjun 89,Male,2.9,96.5,Diploma,Yes,No,62,69,69,200,66.7,C,Pass
+STU090,Manpreet 90,Female,2.7,73.5,High School,Yes,Yes,62,60,59,181,60.3,C,Pass
+STU091,Karan 91,Male,7.8,94.3,Bachelor,Yes,Yes,82,92,93,267,89.0,A,Pass
+STU092,Rohit 92,Male,3.8,85.1,Bachelor,No,Yes,68,62,72,202,67.3,C,Pass
+STU093,Karan 93,Male,7.2,77.1,Bachelor,Yes,No,85,79,90,254,84.7,A,Pass
+STU094,Rohit 94,Female,5.4,88.7,Master,Yes,No,67,76,72,215,71.7,B,Pass
+STU095,Anjali 95,Female,6.6,86.6,High School,No,Yes,75,76,73,224,74.7,B,Pass
+STU096,Navneet 96,Female,4.5,80.2,Bachelor,Yes,Yes,55,68,63,186,62.0,C,Pass
+STU097,Simran 97,Male,5.0,85.6,High School,Yes,Yes,73,71,75,219,73.0,B,Pass
+STU098,Aman 98,Male,4.4,81.9,Bachelor,Yes,Yes,69,73,67,209,69.7,C,Pass
+STU099,Sahil 99,Female,2.4,85.9,High School,Yes,No,61,71,66,198,66.0,C,Pass
+STU100,Arjun 100,Female,6.1,90.3,High School,Yes,No,74,69,68,211,70.3,B,Pass
