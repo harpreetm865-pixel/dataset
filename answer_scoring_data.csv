@@ -1,0 +1,10 @@
+question,ideal_answer,keywords,answer,label
+What is Python?,Python is a high level interpreted programming language,python interpreted language,Python is a high level interpreted language used for programming,2
+What is Python?,Python is a high level interpreted programming language,python interpreted language,Python is a programming language,1
+What is Python?,Python is a high level interpreted programming language,python interpreted language,I like playing cricket,0
+What is overfitting?,Overfitting means learning training data too closely,training data generalization,Overfitting happens when a model learns training data too closely and does not generalize,2
+What is overfitting?,Overfitting means learning training data too closely,training data generalization,Overfitting is related to training,1
+What is overfitting?,Overfitting means learning training data too closely,training data generalization,Python has lists and dictionaries,0
+What is CNN?,CNN is a neural network used for image data,neural network image convolution,CNN is a neural network that uses convolution layers to extract image features,2
+What is CNN?,CNN is a neural network used for image data,neural network image convolution,CNN is a model,1
+What is CNN?,CNN is a neural network used for image data,neural network image convolution,A dictionary stores key value pairs,0
